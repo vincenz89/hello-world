@@ -1,4 +1,3 @@
 # hello-world
 learn to use GitHub repositories
-
-das Geheimnis liegt in der Idee
+this is a private project, so just you can see it
